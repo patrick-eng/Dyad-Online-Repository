@@ -1,0 +1,17 @@
+Results from Analysis of Bootstrap Estimates: 
+ 
+Single Run Model latent mean: 46.45 
+Bootstrap Suggested Model latent mean: 47.18 
+Difference in means: -0.73 
+Suggested items to drop: 
+[1] "IBD/TIPP" "PSRA"     "MISC"     "GREEN"   
+ 
+Most Problematic Items: 
+ 
+  Most Over-Estimated              Most Under-Estimated              Highest Standard Deviation           
+1                COOK 0.0079835134                 PSRA -0.172014132                      GREEN 0.50504120
+2                  AP 0.0060088436                GREEN -0.136904762                       PSRA 0.37444056
+3         Gal/CNN/USA 0.0025182160                 MISC -0.049383353                       MISC 0.33709298
+4                TIME 0.0016793515             IBD/TIPP -0.019403191                   IBD/TIPP 0.10472189
+5            NJOURNAL 0.0007033347                 PENN -0.010599451                       COOK 0.03408824
+6               ZOGBY 0.0004114868             USATODAY -0.009917177                   NJOURNAL 0.03223982

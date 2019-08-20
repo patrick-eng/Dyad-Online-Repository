@@ -1,0 +1,17 @@
+Results from Analysis of Bootstrap Estimates: 
+ 
+Single Run Model latent mean: 37.52 
+Bootstrap Suggested Model latent mean: 36.12 
+Difference in means: 1.4 
+Suggested items to drop: 
+[1] "SOCIOMETRICA"       "COPE"               "CIMASIGMADOSDESEMP" "EES-GOV"            "GALLUP"            
+ 
+Most Problematic Items: 
+ 
+  Most Over-Estimated              Most Under-Estimated             Highest Standard Deviation           
+1                COPE  0.032237589   CIMASIGMADOSDESEMP -0.24026982                    EES-GOV 0.54573560
+2           IPSOSPERF  0.003896969               GALLUP -0.16119403                     GALLUP 0.54443048
+3            IPSOSFAV  0.000000000              EES-GOV -0.13497617         CIMASIGMADOSDESEMP 0.35217693
+4           CIS-LABOR -0.001260474          PUBLICOCONF -0.05552562                       COPE 0.13592327
+5     METROSCOPIACONF -0.003985296           PUBLICOAPP -0.03626808               SOCIOMETRICA 0.11061935
+6           INSTOPINA -0.005508084       METROSCOPIAAPP -0.01999956            CIMASIGMADOSAPP 0.09435811

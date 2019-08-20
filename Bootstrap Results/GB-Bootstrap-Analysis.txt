@@ -1,0 +1,18 @@
+Results from Analysis of Bootstrap Estimates: 
+ 
+Single Run Model latent mean: 0.52 
+Bootstrap Suggested Model latent mean: 0.49 
+Difference in means: 0.03 
+Suggested items to drop: 
+ [1] "EB_SENDBACK"  "EB_SENDBACK4" "EB_SENDBACK2" "EVS_NEIGH"    "BSA_NUM1"     "BSA_FAM1"     "BSA_AUS1"    
+ [8] "BSA_EEC"      "BSA_ASI1"     "BSA_JOBS"     "BSA_WIN"      "EB_FAMILY"   
+ 
+Most Problematic Items: 
+ 
+  Most Over-Estimated            Most Under-Estimated            Highest Standard Deviation          
+1           EVS_NEIGH 0.08494229              BSA_EEC -0.7023860                    BSA_EEC 0.7081045
+2        EVS_PRIORITY 0.04576853              BSA_WIN -0.4793135                    BSA_WIN 0.6072406
+3        EB_SENDBACK4 0.04325903             BSA_ASI1 -0.4173911                   BSA_ASI1 0.5530601
+4          EB_RIGHTS2 0.04020367             BSA_AUS1 -0.1565719                   BSA_AUS1 0.5233926
+5         EB_SENDBACK 0.03754520             BSA_NUM1 -0.1497960                   BSA_FAM1 0.4886886
+6           EB_RIGHTS 0.03449776             BSA_FAM1 -0.1030792                   BSA_JOBS 0.3864149

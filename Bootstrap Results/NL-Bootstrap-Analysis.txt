@@ -1,0 +1,18 @@
+Results from Analysis of Bootstrap Estimates: 
+ 
+Single Run Model latent mean: 57.08 
+Bootstrap Suggested Model latent mean: 52.15 
+Difference in means: 4.93 
+Suggested items to drop: 
+ [1] "EB_RIGHTS"    "EB_SENDBACK"  "EB_SENDBACK3" "EB_SENDBACK4" "IMMNUMB2"     "EB_SENDBACK2" "RACED"       
+ [8] "ASYLSE2"      "IMMEE"        "ESS_CULT"     "EB_FAMILY"   
+ 
+Most Problematic Items: 
+ 
+  Most Over-Estimated            Most Under-Estimated             Highest Standard Deviation          
+1        EB_SENDBACK3 0.23512986              ASYLSE2 -0.79287261                    ASYLSE2 0.7323162
+2         EB_SENDBACK 0.21451315                IMMEE -0.45711578                      IMMEE 0.6733835
+3           EB_RIGHTS 0.17830964                RACED -0.27005285                  EB_FAMILY 0.5152610
+4        EB_SENDBACK4 0.05672812            EB_FAMILY -0.22172232               EB_SENDBACK2 0.4031870
+5            ESS_LIVE 0.04847158               EB_NUM -0.15398363                      RACED 0.3967517
+6          EB_RIGHTS2 0.04664104               ASYLSE -0.06274141                   IMMNUMB2 0.3923635
