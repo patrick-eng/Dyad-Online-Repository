@@ -1,0 +1,94 @@
+[1] "Estimation report:"
+[1] "Period: 1981  to 2017       37  time points"
+[1] "Number of series:  33"
+[1] "Number of usable series:  33"
+[1] "Exponential smoothing:  TRUE"
+[1] "Iteration history: Dimension  1"
+[1] ""
+  Iteration Converge  Crit Reliability Forward Smoothing Backward Smoothing
+1         1   0.2532 0.001       0.595            0.3501             0.5831
+2         2   0.0824 0.001       0.720            0.5372             0.7902
+3         3   0.0496 0.001       0.820            0.6924             0.8632
+4         4   0.0545 0.002       0.862            0.8220             0.8874
+5         5   0.0307 0.002       0.881            0.8672             0.8979
+6         6   0.0042 0.002       0.882            0.8690             0.8962
+7         7   0.0018 0.002       0.883            0.8695             0.8949
+[1] ""
+[1] "Eigen Estimate  3.19  of possible  4.78"
+[1] "  Percent Variance Explained:  66.6"
+[1] ""
+[1] "Variable information:"
+   Variable Name N Mean StdDev Loading
+1       BES_CULT 4 0.54   0.05    0.82
+2       BES_ECON 4 0.49   0.08    0.99
+3        BES_NUM 4 0.74   0.06    0.81
+4       BES_WELF 4 0.68   0.05    0.97
+5       BSA_ASI1 8 0.97   0.01   -0.70
+6       BSA_AUS1 8 0.75   0.05   -0.09
+7      BSA_CRIME 6 0.54   0.08    0.64
+8       BSA_CULT 6 0.38   0.13    0.88
+9      BSA_CULT2 3 0.55   0.03    1.00
+10      BSA_ECN2 3 0.57   0.08    1.00
+11      BSA_ECON 6 0.50   0.16    0.38
+12       BSA_EEC 7 0.86   0.03   -0.84
+13      BSA_FAM1 7 0.86   0.01    0.13
+14      BSA_JOBS 5 0.57   0.06   -0.43
+15      BSA_NUM1 5 0.94   0.01    0.20
+16       BSA_WIN 5 0.96   0.01   -0.93
+17     EB_2MANY2 4 0.54   0.04    0.97
+18    EB_DISTURB 6 0.13   0.02    0.81
+19     EB_FAMILY 3 0.60   0.06   -0.46
+20     EB_RIGHTS 3 0.35   0.04    1.00
+21    EB_RIGHTS2 4 0.77   0.13    0.97
+22   EB_SENDBACK 3 0.21   0.04    1.00
+23  EB_SENDBACK2 3 0.81   0.02    0.94
+24  EB_SENDBACK3 3 0.25   0.06    1.00
+25  EB_SENDBACK4 3 0.39   0.05    1.00
+26      ESS_CULT 9 0.48   0.09    0.85
+27      ESS_ECON 8 0.52   0.10    0.95
+28      ESS_IMM1 8 0.36   0.05    0.94
+29      ESS_IMM2 8 0.46   0.06    0.98
+30      ESS_IMM3 8 0.51   0.06    0.84
+31      ESS_LIVE 8 0.53   0.08    0.95
+32     EVS_NEIGH 6 0.21   0.17    0.89
+33  EVS_PRIORITY 5 0.61   0.07    0.85
+[1] ""
+[1] "Number of cases per period:"
+   period count
+1    1981     1
+2    1982     0
+3    1983     4
+4    1984     3
+5    1985     0
+6    1986     5
+7    1987     0
+8    1988     2
+9    1989     5
+10   1990     8
+11   1991     2
+12   1992     3
+13   1993     2
+14   1994     7
+15   1995    10
+16   1996     3
+17   1997     7
+18   1998     2
+19   1999     4
+20   2000     7
+21   2001     5
+22   2002     0
+23   2003    17
+24   2004     0
+25   2005    13
+26   2006     0
+27   2007     6
+28   2008     1
+29   2009     6
+30   2010     6
+31   2011     9
+32   2012     0
+33   2013     9
+34   2014     3
+35   2015    12
+36   2016     3
+37   2017    12

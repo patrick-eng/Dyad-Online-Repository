@@ -1,0 +1,78 @@
+[1] "Estimation report:"
+[1] "Period: 1988  to 2016       29  time points"
+[1] "Number of series:  22"
+[1] "Number of usable series:  22"
+[1] "Exponential smoothing:  TRUE"
+[1] "Iteration history: Dimension  1"
+[1] ""
+   Iteration Converge  Crit Reliability Forward Smoothing Backward Smoothing
+1          1   0.2556 0.001       0.850            0.6195             0.5116
+2          2   0.0545 0.001       0.724            0.6532             1.0000
+3          3   0.0560 0.002       0.790            0.6195             0.8971
+4          4   0.0471 0.002       0.826            0.5984             0.8467
+5          5   0.0470 0.002       0.862            0.5639             0.8730
+6          6   0.0251 0.002       0.880            0.5565             0.8250
+7          7   0.0134 0.002       0.886            0.5536             0.8014
+8          8   0.0066 0.002       0.888            0.5524             0.7888
+9          9   0.0031 0.002       0.889            0.5522             0.7823
+10        10   0.0015 0.002       0.889            0.5522             0.7791
+[1] ""
+[1] "Eigen Estimate  2.28  of possible  4.03"
+[1] "  Percent Variance Explained:  56.46"
+[1] ""
+[1] "Variable information:"
+   Variable Name N  Mean StdDev Loading
+1         ASYLSE 4 32.15   4.49    0.80
+2        ASYLSE2 5 70.68  13.62   -0.85
+3     EB_DISTURB 6 87.43   2.86    0.78
+4      EB_FAMILY 3 42.92   7.47   -0.41
+5         EB_NUM 6 55.86   6.59    0.77
+6      EB_RIGHTS 3 74.47   2.11    1.00
+7     EB_RIGHTS2 4 35.22   8.81    0.98
+8    EB_SENDBACK 3 83.95   5.47    1.00
+9   EB_SENDBACK2 3 20.20   3.63    0.66
+10  EB_SENDBACK3 3 83.43   6.85    0.99
+11  EB_SENDBACK4 3 65.00   6.73    0.78
+12      ESS_CULT 8 77.56   2.59   -0.11
+13      ESS_ECON 8 56.80   7.79    0.69
+14      ESS_IMM1 8 67.09   5.23    0.89
+15      ESS_IMM2 8 61.28   6.21    0.92
+16      ESS_IMM3 8 54.17   4.67    0.71
+17      ESS_LIVE 8 55.73   7.95    0.85
+18       ETHNICM 5 22.44   4.40    1.00
+19     EVS_NEIGH 5 88.50   4.97    0.34
+20         IMMEE 5 33.24   8.65   -0.54
+21      IMMNUMB2 5 12.70   3.36    0.67
+22         RACED 6 91.02   1.22   -0.27
+[1] ""
+[1] "Number of cases per period:"
+   period count
+1    1988     3
+2    1989     0
+3    1990     2
+4    1991     4
+5    1992     6
+6    1993     5
+7    1994     5
+8    1995     1
+9    1996     0
+10   1997    12
+11   1998     2
+12   1999     1
+13   2000    11
+14   2001     0
+15   2002     9
+16   2003     8
+17   2004     7
+18   2005     0
+19   2006     9
+20   2007     0
+21   2008     7
+22   2009     0
+23   2010     6
+24   2011     0
+25   2012     7
+26   2013     0
+27   2014     6
+28   2015     0
+29   2016     6
