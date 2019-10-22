@@ -1,0 +1,81 @@
+Estimation Report for File: /users/patrickenglish/documents/mood validation/gb_crazy_mood.txt
+
+
+Case Selection Criterion: none
+220 records after date scan
+
+Period 1981 to 2017 Time Points: 37
+
+Number of Series: 36
+
+Exponential Smoothing: On 
+
+Iteration History: Dimension  1
+
+                                        Forward      Backward
+Iter Converge	Crit	Reliability	Smoothing	Smoothing
+-------------------------------------------------------------------------
+1       0.26443    0.001      0.559      0.500      0.504      
+2       0.09721    0.001      0.712      0.509      0.830      
+3       0.04839    0.001      0.815      0.637      0.888      
+4       0.05383    0.002      0.861      0.750      0.909      
+5       0.03939    0.002      0.886      0.811      0.912      
+6       0.00669    0.002      0.889      0.823      0.914      
+7       0.00152    0.002      0.889      0.824      0.913      
+
+
+Loadings and descriptive variable information
+
+                        Dim 1   Dim 2
+No.  Variable	Cases	Loading Loading	    Mean Std Deviation
+------------------------------------------------------------
+1   BES_CULT        4    0.826    1.000    53.946   4.677       
+2   BES_ECON        4    0.983    1.000    48.788   7.859       
+3   BES_NUM         4    0.827    1.000    74.463   5.634       
+4   BES_WELF        4    0.965    1.000    67.546   5.047       
+5   BSA_ASI1        8    -0.724   -1.000   96.938   0.992       
+6   BSA_AUS1        8    -0.070   -1.000   74.976   4.919       
+7   BSA_CRIME       6    0.666    1.000    54.482   8.212       
+8   BSA_CULT        6    0.894    1.000    38.413   13.205      
+9   BSA_CULT2       3    0.992    1.000    55.073   3.466       
+10  BSA_ECN2        3    0.994    1.000    56.563   7.882       
+11  BSA_ECON        6    0.384    1.000    50.402   16.472      
+12  BSA_EEC         7    -0.822   -1.000   85.876   2.733       
+13  BSA_FAM1        7    0.087    1.000    85.644   1.482       
+14  BSA_JOBS        5    -0.443   -1.000   56.839   6.020       
+15  BSA_NUM1        5    0.088    1.000    94.414   0.988       
+16  BSA_WIN         5    -0.943   -1.000   95.710   1.383       
+17  EB_2MANY2       4    0.969    1.000    53.645   4.195       
+18  EB_DISTURB      6    0.805    1.000    13.348   2.402       
+19  EB_FAMILY       3    -0.489   -1.000   60.037   6.267       
+20  EB_RIGHTS       3    0.998    1.000    35.417   3.773       
+21  EB_RIGHTS2      4    0.979    1.000    76.565   12.839      
+22  EB_SENDBACK     3    1.000    1.000    20.810   4.283       
+23  EB_SENDBACK2    3    0.945    1.000    81.070   2.283       
+24  EB_SENDBACK3    3    1.000    1.000    24.880   5.562       
+25  EB_SENDBACK4    3    0.993    1.000    38.720   5.382       
+26  ESS_CULT        9    0.853    1.000    47.757   8.922       
+27  ESS_ECON        8    0.973    1.000    52.151   9.899       
+28  ESS_IMM1        8    0.891    1.000    35.894   4.787       
+29  ESS_IMM2        8    0.966    1.000    45.624   6.217       
+30  ESS_IMM3        8    0.797    1.000    51.334   6.135       
+31  ESS_LIVE        8    0.969    1.000    53.042   7.990       
+32  EVS_NEIGH       6    0.870    1.000    21.038   17.139      
+33  EVS_PRIORITY    5    0.831    1.000    61.288   6.777       
+34  ESS_GAY         8    0.563    1.000    5.766    1.996       
+35  ESS_TRUST       8    0.607    1.000    40.224   2.884       
+36  ESS_SATIS       8    0.525    1.000    44.952   5.174       
+
+
+Scale Metric Information:
+-------------------------
+Mean:          51.73 
+Std Deviation: 6.25  
+
+
+
+Variance Accounting for Dimension 1
+--------------------
+Eigenvalue Estimate 	  3.37  
+of maximum possible 	  5.43  
+Variance Explained: 	 62.10 %
