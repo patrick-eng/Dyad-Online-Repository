@@ -1,4 +1,4 @@
-Estimation from bootstrap.dyad extract function on: gb_input.txt
+Estimation from bootstrap.dyad extract function on: gb_input.csv
 
 [1] "Estimation report:"
 [1] "Period: 1981  to 2017       37  time points"
