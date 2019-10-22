@@ -1,3 +1,5 @@
+Estimation from bootstrap.dyad extract function on: SpainExec.csv
+
 [1] "Estimation report:"
 [1] "Period: 1984 3  to 2019 2 140  time points"
 [1] "Number of series:  19"
