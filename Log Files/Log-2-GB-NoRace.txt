@@ -1,4 +1,4 @@
-Estimation Report for File: /users/patrickenglish/documents/mood validation/moodtypes/gb_norace.txt
+Estimation Report for File: gb_norace.txt
 
 
 Case Selection Criterion: none
