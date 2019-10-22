@@ -1,4 +1,4 @@
-Estimation Report for File: /users/patrickenglish/documents/mood validation/gb_crazy_mood.txt
+Estimation Report for File: gb_invalid.txt
 
 
 Case Selection Criterion: none
