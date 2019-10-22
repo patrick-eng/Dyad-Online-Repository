@@ -3,6 +3,7 @@
 ### All data required can be found in the GitHub repository
 ### NOTE: Requires installation of bootstrap.dyads package, and connecting of appropriate filepaths
 
+library(bootstrap.dyads)
 
 call.dr.code(filepath="INPUT-FILEPATH")
 
@@ -37,7 +38,7 @@ figure2
 
 
 # Figure 3
-gb_small <- data[,c(1,4,6)]
+gb_small <- data[,c(1:2,4)]
 
 gb_long <- reshape2::melt(gb_small, id.vars="Year")
 
@@ -60,7 +61,7 @@ figure3
 
 ### 2.1 - Immigration in Britain
 
-gb_data <- read.csv("GBImm.csv", header=FALSE)
+gb_data <- read.csv("gb_input.csv", header=FALSE)
 
 gb_data$V2 <- as.Date(gb_data$V2, format="%m/%d/%Y")
 
