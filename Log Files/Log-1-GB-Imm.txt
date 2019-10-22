@@ -1,4 +1,4 @@
-Estimation Report for File: /users/patrickenglish/documents/mood validation/gb_mixed_input.txt
+Estimation Report for File: gb_input.txt
 
 
 Case Selection Criterion: none
