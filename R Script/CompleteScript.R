@@ -1,5 +1,5 @@
 ### Title: R Script replicating paper materials
-### Paper: English, Boostrapping Dyads
+### Paper: Stabilizing through randomizing: A bootstrap approach to estimating item validity and latent concepts
 ### All data required can be found in the GitHub repository
 ### NOTE: Requires installation of bootstrap.dyads package, and connecting of appropriate filepaths
 
